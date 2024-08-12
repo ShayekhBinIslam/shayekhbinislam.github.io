@@ -2,12 +2,12 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+# subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
-  # image: prof_pic.jpg
-  # image_circular: false # crops the image to make it circular
+  image: my.jpg
+  # image_circular: true # crops the image to make it circular
   # more_info: >
   #   <p>555 your office number</p>
   #   <p>123 your address street</p>
@@ -24,4 +24,4 @@ Put your address / P.O. box / other info right below your picture. You can also 
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
-I am broadly interested in natural language processing and machine learning. My research involves complex reasoning, language agents and parameter-efficient systems for real-world problems using deep neural networks.
+I am broadly interested in natural language processing and machine learning. My research involves complex reasoning, language agents, preference optimization and parameter-efficient systems for real-world problems using deep neural networks.
