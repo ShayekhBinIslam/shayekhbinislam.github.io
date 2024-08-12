@@ -207,7 +207,7 @@ ul.task-list input[type="checkbox"] {
 
 @media (min-width: 576px) {
   .profile {
-    width: 30%;
+    width: 20%;
 
     .address {
       p {
@@ -860,6 +860,8 @@ html.transition *:after {
 
 // Extra Markdown style (post Customization)
 .post {
+  width: 85%;
+  margin:auto; display:block;
   .post-meta {
     color: var(--global-text-color-light);
     font-size: 0.875rem;
