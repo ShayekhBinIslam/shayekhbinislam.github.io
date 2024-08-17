@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
+title: Teaching
 # description: Materials for courses you taught. Replace this text with your description.
 description: I served as a Visiting Lecturer in the Department of Computer Science & Engineering, School of Data & Sciences, Brac University for three semesters. I instructed few courses, co-supervised thesis groups and designed materials for the Robotics course.
 nav: true
