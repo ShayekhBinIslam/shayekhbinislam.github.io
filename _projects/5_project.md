@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 5
-description: a project with a background image
-img: assets/img/1.jpg
+title: "Q-TCP: Improving TCP Congestion Control with Machine Intelligence"
+description: Implementing a deep Q-Learning agent for TCP congesting control with agent state and reward design.
+# img: assets/img/1.jpg
 importance: 3
-category: fun
+category: Reinforcement Learning
 ---
 
 Every project has a beautiful feature showcase page.

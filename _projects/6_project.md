@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 6
-description: a project with no image
-img:
+title: HummingBird
+description: Developing a Reinforcement Learning game using Unity ML-Agents and training PPO agents for competiting with human.
+# img:
 importance: 4
-category: fun
+category: Reinforcement Learning
 ---
 
 Every project has a beautiful feature showcase page.

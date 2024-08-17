@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
+title:  Mislabeled Instances in Aya Datasets
+description: Automated identification label issues in Aya instruction and red-teaming datasets using language detection, perplexity analysis and LLM-as-a-Judge techniques.
+# img: assets/img/3.jpg
 importance: 2
-category: work
-giscus_comments: true
+category: "Expedition Aya, Cohere For AI"
+# giscus_comments: true
 ---
 
 Every project has a beautiful feature showcase page.

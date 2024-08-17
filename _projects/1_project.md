@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Evaluating Reward Models in Multilingual Setting
-description: with background image
-img: assets/img/12.jpg
+title: Evaluating Multilingual Reward Models
+description: Developing a multilingual evaluation framework for diverse reward models with appropriate metrics, datasets and baselines.
+# img: assets/img/12.jpg
 importance: 1
-category: work
+category: Expedition Aya, Cohere For AI
 related_publications: false
 ---
 

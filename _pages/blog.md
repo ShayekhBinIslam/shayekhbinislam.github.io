@@ -1,8 +1,9 @@
 ---
 layout: default
-permalink: /blog/
+permalink: /blog--disabled/
 title: blog
-nav: true
+# nav: true
+nav: false
 nav_order: 1
 pagination:
   enabled: true

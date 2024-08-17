@@ -1,9 +1,10 @@
 ---
 layout: profiles
-permalink: /people/
+permalink: /people---disabled/
 title: people
 description: members of the lab or group
-nav: true
+# nav: true
+nav: false
 nav_order: 7
 
 profiles:
