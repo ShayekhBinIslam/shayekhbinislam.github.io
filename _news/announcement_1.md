@@ -1,8 +1,9 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2024-08-16 15:59:00+0600
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Will be serving as a reviewer in NeurIPS 2024 Workshop on Behavioral ML.
+
