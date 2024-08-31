@@ -5,7 +5,6 @@ description: Curating high quality benchmark for PRMs and evaluate various LLMs 
 
 # img: assets/img/9.jpg
 importance: 1
-category: Natural Language Processing
-# giscus_comments: true
+category: Reinforcement Learning
 ---
 

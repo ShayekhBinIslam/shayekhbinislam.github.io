@@ -4,7 +4,8 @@
 # cv_pdf: example_pdf.pdf
 
 layout: page
-permalink: assets/pdf/example_pdf.pdf
+# permalink: assets/pdf/example_pdf.pdf
+permalink: assets/pdf/Shayekh_Bin_Islam_CV_Sept24.pdf
 
 title: CV
 nav: true

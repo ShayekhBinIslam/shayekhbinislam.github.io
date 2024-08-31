@@ -6,4 +6,4 @@ related_posts: false
 ---
 
 Joined [Expedition Aya](https://sites.google.com/cohere.com/expedition-aya/home) Research Hackathon with 
-5000 USD credits for multiple projects.
+5000 USD credits for multiple projects in a massive multicultural collaboration.
