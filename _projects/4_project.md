@@ -13,5 +13,5 @@ MMLU is a test covers 57 tasks including elementary mathematics, computer scienc
 
 
 Contribution: Bengali Exams dataset from University Entrance exams and Public Service exams.
-🤗 [University Entrance Exams](https://huggingface.co/datasets/shayekh/bengali-exams)
-🤗 [Public Service Exams](https://huggingface.co/datasets/shayekh/bengali-exams-public)
+🤗 [University Entrance Exams (10k)](https://huggingface.co/datasets/shayekh/bengali-exams)
+🤗 [Public Service Exams (4k)](https://huggingface.co/datasets/shayekh/bengali-exams-public)
