@@ -9,5 +9,9 @@ importance: 3
 category: "Expedition Aya, Cohere For AI"
 ---
 
-MMLU is a test covers 57 tasks including elementary mathematics, computer science, law, and more. It is made up of exams from US based systems. However, as an English based dataset it first requires translation which is known to introduce linguistic and cultural artifacts. Instead, in this initiative we would collect exams in local languages from all over the world and structure as a standardized collection which can be released at the end of the 6 weeks. Anyone can participate from different countries around the world to recommend exam collections which are accessible and can be released as a dataset. This will be the localized MMLU -- this is also good for participants without extensive engineering experience but who want to gain research experience. We can use the collected exams to evaluate current generations on state-of-art models.
+MMLU is a test covers 57 tasks including elementary mathematics, computer science, law, and more. It is made up of exams from US based systems. However, as an English based dataset it first requires translation which is known to introduce linguistic and cultural artifacts. Instead, in this initiative we would collect exams in local languages from all over the world and structure as a standardized collection which can be released at the end of the 6 weeks. Anyone can participate from different countries around the world to recommend exam collections which are accessible and can be released as a dataset. This will be the **localized MMLU** to evaluate current generations on state-of-art models.
 
+
+Contribution: Bengali Exams dataset from University Entrance exams and Public Service exams.
+🤗 [University Entrance Exams](https://huggingface.co/datasets/shayekh/bengali-exams)
+🤗 [Public Service Exams](https://huggingface.co/datasets/shayekh/bengali-exams-public)
