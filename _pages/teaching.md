@@ -3,7 +3,7 @@ layout: page
 permalink: /teaching/
 title: Teaching
 # description: Materials for courses you taught. Replace this text with your description.
-description: I served as a Visiting Lecturer in the Department of Computer Science & Engineering, School of Data & Sciences, Brac University for three semesters. I instructed few courses, co-supervised thesis groups and designed materials for the Robotics course.
+description: I served as a Visiting Lecturer in the Department of Computer Science & Engineering, Brac University for three semesters. I instructed few courses, co-supervised thesis groups and designed materials for the Robotics course.
 nav: true
 nav_order: 4
 ---
@@ -12,6 +12,22 @@ nav_order: 4
 
 
 ## Designing Robot Operating System Materials
+
+All the code and instructions is available here: [github.com/ShayekhBinIslam/ros-labs](https://github.com/ShayekhBinIslam/ros-labs)
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/ros_hand.png" title="ros hand" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/ros_car.png" title="ros husky car" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/ros_drone.png" title="ros drone" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+
 
 - Introduction to Robot Operating System (ROS)
   - Acquainting learners with the fundamentals of Robot Operating System (ROS) using
@@ -30,6 +46,7 @@ nav_order: 4
 - Proportional–Integral–Derivative (PID) Controller in ROS
   - Implementing of a PID controller of **Hector**, a drone robot system, in Python and C++.
   - Developing a remote-control system for the drone in Python.
+
 
 
 
