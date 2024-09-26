@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-📄 Will reviewing in [ICLR 2025](https://openreview.net/group?id=ICLR.cc/2025/Conference) (main).
+📄 Will be reviewing in [ICLR 2025](https://openreview.net/group?id=ICLR.cc/2025/Conference) Main.
