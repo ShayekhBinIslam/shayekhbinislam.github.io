@@ -5,9 +5,8 @@ repo_description_lines_max: 5
 
 github_repos:
   - for-ai/aya_rm_multilingual
+  - ShayekhBinIslam/openrag
   - TheDuckAI/prm
-  - EleutherAI/lm-evaluation-harness
   - ShayekhBinIslam/hummingbird-mlagent
   - hust-diangroup/ns3-ai
-  # - mathjax/MathJax
-  # - jpswalsh/academicons
+  - EleutherAI/lm-evaluation-harness
