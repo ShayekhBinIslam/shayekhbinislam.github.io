@@ -6,7 +6,11 @@ description: Developing a multilingual evaluation framework for diverse reward m
 importance: 1
 category: Expedition Aya, Cohere For AI
 related_publications: false
+# permalink: 
+# redirect_to: https://m-rewardbench.github.io/
 ---
+[Project website](https://m-rewardbench.github.io/)
+
 RewardBench is the only established benchmark available that directly evaluates RM capabilities. Even so, RewardBench primarily focuses on English, and does not capture multilingual capabilities.
 
 To address this gap, we translated RewardBench on 23 languages (same set as Aya-23). Our evaluation covers diverse model families, sizes and versions.

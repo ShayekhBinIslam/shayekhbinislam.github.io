@@ -7,7 +7,7 @@
   abbr={EMNLP},
   title={Open-RAG: Enhanced Retrieval Augmented Reasoning with Open-Source
 Large Language Models},
-  author={Bin Islam, Shayekh and Rahman, Md Asib and Tozammel Hossain, K S M and Hoque, Enamul and Joty, Shafiq, and Parvez, Md Rizwan},
+  author={Bin Islam*, Shayekh and Rahman*, Md Asib and Tozammel Hossain, K S M and Hoque, Enamul and Joty, Shafiq, and Parvez, Md Rizwan},
   abstract={Retrieval Augmented Generation (RAG) has been shown to enhance the factual accuracy of Large Language Models (LLMs) by providing external evidence, but existing methods often suffer from limited reasoning capabilities (e.g., multi-hop complexities) in effectively using such evidence, particularly when using open-source LLMs. To mitigate this gap, in this paper, we introduce a novel framework, Open-RAG, designed to enhance reasoning capabilities in RAG with open-source LLMs. Our framework transforms an arbitrary dense LLM into a parameter-efficient sparse mixture of experts (MoE) model capable of handling complex reasoning tasks, including both single- and multi-hop queries. Open-RAG uniquely trains the model to navigate challenging distractors that appear relevant but are misleading. By combining the constructive learning and architectural transformation, Open-RAG leverages latent learning, dynamically selecting relevant experts and integrating external knowledge effectively for more accurate and contextually relevant responses. Additionally, we propose a hybrid adaptive retrieval method to determine retrieval necessity and balance the trade-off between performance gain and inference speed. Experimental results show that Open-RAG outperforms state-of-the-art LLMs and RAG models in various knowledge-intensive tasks. Our method based on Llama2 sets new benchmarks, surpassing ChatGPT-RAG, Command R+ and Self-RAG.},
   year={2024},
   month={November},
@@ -17,4 +17,29 @@ Large Language Models},
   journal={EMNLP Findings},
   preview={rag2024.jpg},
 }
+
+@article{gureja2024m,
+  title={M-RewardBench: Evaluating Reward Models in Multilingual Settings},
+  author={Gureja*, Srishti and Miranda*, Lester James V and  Islam*, Shayekh Bin and Maheshwary*, Rishabh and Sharma, Drishti and Winata, Gusti and Lambert, Nathan and Ruder, Sebastian and Hooker, Sara and Fadaee, Marzieh},
+  journal={arXiv preprint arXiv:2410.15522},
+  year={2024},
+  abstract={Reward models (RMs) have driven the state-of-the-art performance of LLMs today by enabling the integration of human feedback into the language modeling process. However, RMs are primarily trained and evaluated in English, and their capabilities in multilingual settings remain largely understudied. In this work, we conduct a systematic evaluation of several reward models in multilingual settings. We first construct the first-of-its-kind multilingual RM evaluation benchmark, M-RewardBench, consisting of 2.87k preference instances for 23 typologically diverse languages, that tests the chat, safety, reasoning, and translation capabilities of RMs. We then rigorously evaluate a wide range of reward models on M-RewardBench, offering fresh insights into their performance across diverse languages. We identify a significant gap in RMs' performances between English and non-English languages and show that RM preferences can change substantially from one language to another. We also present several findings on how different multilingual aspects impact RM performance. Specifically, we show that the performance of RMs is improved with improved translation quality. Similarly, we demonstrate that the models exhibit better performance for high-resource languages. We release M-RewardBench dataset and the codebase in this study to facilitate a better understanding of RM evaluation in multilingual settings. },
+  preview={mrewardbench.png},
+  pdf={https://arxiv.org/pdf/2410.15522},
+  abbr={In Submission},
+  selected={true},
+}
+
+@article{son2024mm,
+  title={MM-Eval: A Multilingual Meta-Evaluation Benchmark for LLM-as-a-Judge and Reward Models},
+  author={Son, Guijin and Yoon, Dongkeun and Suk, Juyoung and Aula-Blasco, Javier and Aslan, Mano and Kim, Vu Trong and Islam, Shayekh Bin and Prats-Cristi{\`a}, Jaume and Tormo-Ba{\~n}uelos, Luc{\'\i}a and Kim, Seungone},
+  journal={arXiv preprint arXiv:2410.17578},
+  year={2024},
+  pdf={https://arxiv.org/pdf/2410.17578},
+  abbr={In Submission},
+  preview={mmeval.png},
+  abstract={Large language models (LLMs) are commonly used as evaluators in tasks (e.g., reward modeling, LLM-as-a-judge), where they act as proxies for human preferences or judgments. This leads to the need for meta-evaluation: evaluating the credibility of LLMs as evaluators. However, existing benchmarks primarily focus on English, offering limited insight into LLMs' effectiveness as evaluators in non-English contexts. To address this, we introduce MM-Eval, a multilingual meta-evaluation benchmark that covers 18 languages across six categories. MM-Eval evaluates various dimensions, including language-specific challenges like linguistics and language hallucinations. Evaluation results show that both proprietary and open-source language models have considerable room for improvement. Further analysis reveals a tendency for these models to assign middle-ground scores to low-resource languages. We publicly release our benchmark and code.}
+}
+
+
 

@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-✨✨ One first-author paper accepted in [EMNLP Findings 2024](https://2024.emnlp.org/program/accepted_findings/).
+✨✨ One first-author paper accepted in [EMNLP Findings 2024](https://aclanthology.org/2024.findings-emnlp.831/).
