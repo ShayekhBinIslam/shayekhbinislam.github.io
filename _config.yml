@@ -4,8 +4,8 @@
 
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Shayekh
-middle_name: Bin
-last_name: Islam
+middle_name: 
+last_name: Bin Islam
 email: shayekh.bin.islam@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Personal website of Shayekh Bin Islam.
@@ -327,8 +327,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Islam, Bin Islam]
+  first_name: [Shayekh, S., SB, Shayekh Bin]
 
   style: apa
   locale: en

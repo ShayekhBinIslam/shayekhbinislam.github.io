@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Visiting [EMNLP 2024](https://2024.emnlp.org/) at Miamia, Florida
+Attending [EMNLP 2024](https://2024.emnlp.org/) at Miami, Florida 🌴 Presenting [Open-RAG](https://openragmoe.github.io/).
