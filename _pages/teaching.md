@@ -10,8 +10,28 @@ nav_order: 4
 
 <!-- I served as a Visiting Lecturer in the Department of Computer Science & Engineering, School of Data & Sciences, Brac University in three semesters. I instructed few courses, co-supervised thesis groups and designed materials for the Robotics course. -->
 
+## Courses Instructed
 
-## Designing Robot Operating System Materials
+
+- Artificial Intelligence -- Summer 2023, Fall 2023, Spring 2024
+- Introduction to Robotics -- Fall 2023, Spring 2024
+- Data Communications -- Summer 2023, Fall 2023, Spring 2024
+- Software Engineering -- Summer 2023
+
+## Thesis Co-Supervised
+
+- A Scalable Bitcoin Blockchain Network by Dynamic Block Size Adjustment using RL.
+  - Proposing a dynamic block size adjustment system that maximizes the miner's revenue based on the condition of the blockchain network.
+  - Benchmarking online, offline, and inverse RL algorithms in the blockchain domain.
+
+- Mitigating Occupation Bias in Language Models.
+  - Proposing a method to mitigate the occupation bias in Language models such as BERT, RoBERTa, and DistilBERT via continual pre-training with gender-balanced synthetic datasets.
+
+
+
+## Introduction to Robot Operating System (ROS)
+
+Collaborator: [Mir Sayeed Mohammad](https://sites.google.com/view/mirsayeedmohammad/home)
 
 All the code and instructions is available here: [github.com/ShayekhBinIslam/ros-labs](https://github.com/ShayekhBinIslam/ros-labs)
 
@@ -48,25 +68,6 @@ All the code and instructions is available here: [github.com/ShayekhBinIslam/ros
   - Developing a remote-control system for the drone in Python.
 
 
-
-
-## Thesis Co-Supervised
-
-- A Scalable Bitcoin Blockchain Network by Dynamic Block Size Adjustment using RL.
-  - Proposing a dynamic block size adjustment system that maximizes the miner's revenue based on the condition of the blockchain network.
-  - Benchmarking online, offline, and inverse RL algorithms in the blockchain domain.
-
-- Mitigating Occupation Bias in Language Models.
-  - Proposing a method to mitigate the occupation bias in Language models such as BERT, RoBERTa, and DistilBERT via continual pre-training with gender-balanced synthetic datasets.
-
-
-## Courses Instructed
-
-
-- Artificial Intelligence -- Summer 2023, Fall 2023, Spring 2024
-- Introduction to Robotics -- Fall 2023, Spring 2024
-- Data Communications -- Summer 2023, Fall 2023, Spring 2024
-- Software Engineering -- Summer 2023
 
 
 <!-- #### Spring 2024
