@@ -5,7 +5,7 @@
 
 layout: page
 # permalink: assets/pdf/example_pdf.pdf
-permalink: "assets/pdf/Shayekh_Bin_Islam_CV-Dec24.pdf"
+permalink: "assets/pdf/Shayekh_Bin_Islam_CV-Feb25.pdf"
 
 title: CV
 nav: true
