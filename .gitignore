@@ -13,3 +13,4 @@ vendor
 .idea
 
 makefile
+Gemfile.lock
