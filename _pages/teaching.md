@@ -1,10 +1,15 @@
 ---
 layout: page
-permalink: /teaching/
+
+# permalink: /teaching/
+# nav: true
+permalink: /teaching--disabled/
+nav: false
+
 title: Teaching
 # description: Materials for courses you taught. Replace this text with your description.
 description: I served as a Visiting Lecturer in the Department of Computer Science & Engineering, Brac University for three semesters. I instructed few courses, co-supervised thesis groups and designed materials for the Robotics course.
-nav: true
+
 nav_order: 4
 ---
 

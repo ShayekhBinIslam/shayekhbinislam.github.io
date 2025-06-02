@@ -1,10 +1,13 @@
 ---
 layout: default
-permalink: /blog--disabled/
+# permalink: /blog--disabled/
+# nav: false
+permalink: /blog/
+nav: true
+
 title: blog
-# nav: true
-nav: false
-nav_order: 1
+
+nav_order: 6
 pagination:
   enabled: true
   collection: posts

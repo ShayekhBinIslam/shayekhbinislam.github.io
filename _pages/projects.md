@@ -3,7 +3,8 @@ layout: page
 title: Projects
 permalink: /projects/
 # description: A growing collection of your cool projects.
-nav: true
+# nav: true
+nav: false
 nav_order: 3
 display_categories: ["Expedition Aya, Cohere For AI", Natural Language Processing, Reinforcement Learning]
 horizontal: true
